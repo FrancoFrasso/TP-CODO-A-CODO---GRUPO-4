@@ -7,7 +7,7 @@ const datos = [
         titulo:"CERRO OTTO",
         subtitulo: "En la cima de la diversión",
         img: "img/CERRO OTTO.png",
-        enlace: "../CERRO OTTO/CERRO OTTO TURISMO.html",
+        enlace: "../TP CODO A CODO - GRUPO 4/CERRO OTTO/CERRO OTTO TURISMO.html",
         texto:"Este cerro posee un camino principal y numerosos senderos de montaña para practicar mountain bike y senderismo de corto recorrido. Es posible acceder a la cima mediante un camino para vehículos o mediante un teleférico que parte desde su base. En las zonas superiores de la montaña encontrarás, durante el invierno, pistas para la práctica de esquí nórdico y otras para esquí andino."
     },
 
@@ -16,7 +16,7 @@ const datos = [
         titulo:"ISLA VICTORIA",
         subtitulo: "Hermosa y milenaria isla",
         img: "img/ISLA VICTORIA.jpg",
-        enlace: "../ISLA VICTORIA/ISLA VICTORIA TURISMO.html",
+        enlace: "../TP CODO A CODO - GRUPO 4/ISLA VICTORIA/ISLA VICTORIA TURISMO.html",
         texto:"Cabalgatas, trekking o salidas en mountain bike son algunas de las opciones que proveen los senderos de la isla. Por otro lado, los paseos lacustres al Bosque de Arrayanes llegan a ese lugar único en el mundo tanto desde Bariloche como desde Villa La Angostura por medio de una navegación por el lago Nahuel Huapi."
     },
 
@@ -25,7 +25,7 @@ const datos = [
         titulo:"CIRCUITO CHICO",
         subtitulo:"El bosque, el lago y las montañas unidos para recibirte",
         img: "img/CIRCUITO CHICO.png",
-        enlace: "../CIRCUITO CHICO/CIRCUITO CHICO TURISMO.html",
+        enlace: "../TP CODO A CODO - GRUPO 4/CIRCUITO CHICO/CIRCUITO CHICO TURISMO.html",
         texto:"Un paseo atrapante en el que la ciudad, los bosques, los lagos y las montañas se integran en un solo paisaje."
     },
 
@@ -34,7 +34,7 @@ const datos = [
         titulo:"CERRO TRONADOR",
         subtitulo:"Glaciares imponentes",
         img: "img/CERRO TRONADOR.png",
-        enlace: "../CERRO TRONADOR/CerroTronador TURISMO.html",
+        enlace: "../TP CODO A CODO - GRUPO 4/CERRO TRONADOR/CerroTronador TURISMO.html",
         texto:"Se encuentra en la zona sur de la cordillera de los Andes, en la frontera entre Argentina y Chile. Separa dos parques nacionales: el Nahuel Huapi, en las provincias de Río Negro y Neuquén, Argentina; y el Vicente Pérez Rosales en la provincia de Llanquihue, Chile."
     }
 ];
